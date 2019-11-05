@@ -1,4 +1,4 @@
-package com.example.springboot12th.repository;
+package com.example.springboot12th.response;
 
 public class MessageInfo {
     private String message;
